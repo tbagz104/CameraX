@@ -1,3 +1,3 @@
-# CrimsonLychee
+# CameraX
 
-The happiest app on the planet
+Beyond Imagination
